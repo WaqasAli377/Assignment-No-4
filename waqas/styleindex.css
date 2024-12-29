@@ -1,0 +1,11 @@
+.space{
+    width: 250px;
+    display: inline-block;
+    height: 40px;
+}
+
+.img{
+    height: 300px;
+    width: 400px;
+    text-align: right;
+}
